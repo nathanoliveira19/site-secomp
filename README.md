@@ -1,6 +1,6 @@
 # X SECOMP
 > Esse repositório é destinado para gerenciar o site da Semana
-> da Computação da UFSCar (SECOMP UFSCar).
+> da Computação da UFSCar ([SECOMP UFSCar](https://secompufscar.com.br)).
 
 ## Dependências
 Antes de rodar o servidor, instalar as seguintes dependências:
